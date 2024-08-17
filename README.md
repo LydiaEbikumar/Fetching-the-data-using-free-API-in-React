@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I am using this free API
+https://jsonplaceholder.typicode.com/users
+
 ## Available Scripts
 
 In the project directory, you can run:
